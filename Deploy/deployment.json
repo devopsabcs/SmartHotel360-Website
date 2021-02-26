@@ -48,7 +48,7 @@
     {
       "type": "Microsoft.CognitiveServices/accounts",
       "sku": {
-        "name": "F0"
+        "name": "S1"
       },
       "kind": "ComputerVision",
       "name": "[variables('vision_name')]",
