@@ -289,3 +289,13 @@ __pycache__/
 *.xsd.cs
 .DS_Store
 SmartHotel360.PublicWeb/ClientApp/src/scss/site.css
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
